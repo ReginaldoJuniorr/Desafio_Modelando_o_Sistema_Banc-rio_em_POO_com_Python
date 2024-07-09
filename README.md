@@ -1,2 +1,5 @@
-# Desafio_3_DIO
-Modelando_o_Sistema_Bancário_em_POO_com_Python
+#Modelando o Sistema Bancário em POO com Python
+
+💡Código modelado e otimizado com o objetivo de finalizar o desafio de projeto: Modelando o Sistema Bancário em POO com Python
+
+👉Reginaldo Junior
