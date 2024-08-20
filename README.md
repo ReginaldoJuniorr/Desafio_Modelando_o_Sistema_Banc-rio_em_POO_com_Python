@@ -1,5 +1,5 @@
-Modelando o Sistema Bancário em POO com Python
+💻 Modelando o Sistema Bancário em POO com Python
 
-💡Código modelado e otimizado com o objetivo de finalizar o desafio de projeto: Modelando o Sistema Bancário em POO com Python
+👉 Descrição do desafio:
 
-👉Reginaldo Junior
+- Neste desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.
